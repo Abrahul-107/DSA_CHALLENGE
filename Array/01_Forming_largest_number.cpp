@@ -29,17 +29,10 @@ static bool integercompare(int firstInt, int secondInt)
     // Count length of firstInt and secondInt
     int countx = 0, county = 0;
  
-    // Count length of X
-    while (firstInt > 0) {
-        countx++;
-        firstInt /= 10;
-    }
- 
-    // Count length of Y
-    while (secondInt > 0) {
-        county++;
-        secondInt /= 10;
-    }
+
+    countx = int(log10(firstInt)) + 1;
+    county = int(log10(secondInt)) + 1 ;
+
  
     firstInt = firstNum;
     secondInt = secondNum;
@@ -50,10 +43,12 @@ static bool integercompare(int firstInt, int secondInt)
     while (county--)
         firstNum *= 10;
  
+
     // Append firstInt to secondInt
     secondNum += firstInt;
  
     // Append secondInt to firstInt
+    secondNum += firstInt;
     firstNum += secondInt;
  
     return firstNum > secondNum;
@@ -88,5 +83,4 @@ int main()
     
 
     return 0;
-    
 }
