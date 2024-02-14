@@ -1,5 +1,5 @@
 /*Time complexity = 0(N)
-  Space complexity = 0(1)*/
+  Space complexity = 0(N)*/
   
 #include<bits/stdc++.h>
 using namespace std;
