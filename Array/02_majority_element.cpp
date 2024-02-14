@@ -1,3 +1,6 @@
+/*Time complexity = 0(NLogN)
+  Space complexity = 0(1)*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

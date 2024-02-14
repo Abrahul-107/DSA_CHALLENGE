@@ -1,8 +1,9 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-
+/*Time complexity = 0(NLogN)
+  Space complexity = 0(1)*/
+  
+#include<bits/stdc++.h>
 using namespace std;
+
 
 bool twoSumWithouSpace(vector<int> &arr, int sum) {
     int n = arr.size();
