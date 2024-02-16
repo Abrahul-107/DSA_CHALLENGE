@@ -10,6 +10,7 @@ Must do interview questions from each topic
 | 5. [Peak element (Binary search approch)](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Array/05_peak_element.cpp) |
 | 6. [Contains duplicate](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Array/06_contains_duplicate.cpp) |
 | 7. [Find prefix score Leetcode 2640](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Array/07_findPrefixScore.cpp) |
+| 8. [Product of array except itself ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Array/08_product_array_except_itself.cpp) |
 
 
 
