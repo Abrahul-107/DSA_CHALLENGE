@@ -24,4 +24,5 @@ Must do interview questions from each topic
 | 3. [Add two number in Likedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/03_add_twonumber.cpp) |
 | 4. [Delete nth node from end](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/04_delete_Nthfrom_end.cpp) |
 | 5. [Reverse a linkedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/05_reverse_linkedlist.cpp) |
-| 5. [Middle of linkedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/06_middle_find.cpp) |
+| 6. [Middle of linkedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/06_middle_find.cpp) |
+| 7. [Loop detection in Linkedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/07_detect_loop.cpp) |
