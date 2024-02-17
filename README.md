@@ -12,6 +12,7 @@ Must do interview questions from each topic
 | 7. [Find prefix score Leetcode 2640](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Array/07_findPrefixScore.cpp) |
 | 8. [Product of array except itself ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Array/08_product_array_except_itself.cpp) |
 | 9. [Next permutation](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Array/09_next_permutation.cpp) |
+| 9. [Kadanes algorithm](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Array/10_Kadens_algo.cpp) |
 
 
 
