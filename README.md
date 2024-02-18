@@ -27,3 +27,5 @@ Must do interview questions from each topic
 | 6. [Middle of linkedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/06_middle_find.cpp) |
 | 7. [Loop detection in Linkedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/07_detect_loop.cpp) |
 | 8. [Starting point of loop](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/08_starting_of_loop.cpp) |
+| 8. [Starting point of loop](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/08_starting_of_loop.cpp) |
+| 9. [Delete middle node](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/09_delete_middle.cpp) |
