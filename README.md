@@ -26,4 +26,4 @@ Must do interview questions from each topic
 | 5. [Reverse a linkedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/05_reverse_linkedlist.cpp) |
 | 6. [Middle of linkedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/06_middle_find.cpp) |
 | 7. [Loop detection in Linkedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/07_detect_loop.cpp) |
-
+| 8. [Starting point of loop](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/08_starting_of_loop.cpp) |
