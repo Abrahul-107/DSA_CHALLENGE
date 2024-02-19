@@ -29,3 +29,4 @@ Must do interview questions from each topic
 | 8. [Starting point of loop](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/08_starting_of_loop.cpp) |
 | 8. [Starting point of loop](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/08_starting_of_loop.cpp) |
 | 9. [Delete middle node](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/09_delete_middle.cpp) |
+| 9. [Find merge point  in linkedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/10_find_mergepoint.cpp) |
