@@ -31,3 +31,12 @@ Must do interview questions from each topic
 | 9. [Delete middle node](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/09_delete_middle.cpp) |
 | 10. [Find merge point  in linkedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/10_find_mergepoint.cpp) |
 | 11. [Reverse nodes in k group](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/11_reverse_inK.cpp)|
+
+
+| --:Binary Search PROBLEMS:--  |
+|------------------------------|
+| 1. [Binary search](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/BinarySearch/BS_in_oned/01_binary_search.cpp)|
+| 2. [Searching in rotated array ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/BinarySearch/BS_in_oned/02_searchin_rotated.cpp) |
+| 3. [Search in rotated array 2](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/BinarySearch/BS_in_oned/03_searchinrotated2.cpp) |
+| 4. [Find time of rotation](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/BinarySearch/BS_in_oned/04_findTimeofrotation.cpp) |
+| 5. [Single non duplicate number](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/BinarySearch/BS_in_oned/05_single_nonduplicate.cpp) |
