@@ -31,6 +31,7 @@ Must do interview questions from each topic
 | 9. [Delete middle node](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/09_delete_middle.cpp) |
 | 10. [Find merge point  in linkedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/10_find_mergepoint.cpp) |
 | 11. [Reverse nodes in k group](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/11_reverse_inK.cpp)|
+| 12. [Convert sorted list to BST](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Linkedlist/12_sortedlist_to_BST.cpp.cpp)|
 
 
 | --:Binary Search PROBLEMS:--  |
@@ -49,4 +50,3 @@ Must do interview questions from each topic
 | 1. [Stack using Array](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Stack/01_stack_using_array.cpp)|
 | 2. [Stack using Linkedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Stack/02_stack_using_linkedlist.cpp)|
 | 2. [Balanced paranthesis ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Stack/03_balanced_paranthesis.cpp)|
-
