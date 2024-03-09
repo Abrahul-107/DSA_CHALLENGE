@@ -51,4 +51,4 @@ Must do interview questions from each topic
 | 2. [Stack using Linkedlist](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Stack/02_stack_using_linkedlist.cpp)|
 | 3. [Balanced paranthesis ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Stack/03_balanced_paranthesis.cpp)|
 | 4. [find 132 pattern in an array ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Stack/04_132_pattern.cpp)|
-| 4. [asteroidCollision problem ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Stack/05_asteroidCollision.cpp)|
+| 5. [asteroidCollision problem ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Stack/05_%20asteroidCollision.cpp)|
