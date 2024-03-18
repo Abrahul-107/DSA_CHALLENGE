@@ -35,4 +35,5 @@
 | --:Binary Tree PROBLEMS:--  |
 |------------------------------|
 | 1. [Representation of tree in C++ ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/01_representation.cpp)|
-| 2. [Preorder traversal in tree ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/BinarySearch/BS_in_oned/02_preorder_traversal.cpp) |
+| 2. [Preorder traversal in tree ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/02_preorder_traversal.cpp) |
+| 3. [inorder traversal in tree ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/03_inorder_traversal.cpp) |
