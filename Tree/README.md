@@ -43,3 +43,5 @@
  7. [Two Trees are Identical or not](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/07_identicaltree_check.cpp) 
  8. [Mirror tree](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/08_mirror_tree.cpp) 
  9. [Tree is symmetric or not ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/09_symmetricornot.cpp) 
+ 10.[Diameter of binary tree ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/10_diameteroftree.cpp) 
+
