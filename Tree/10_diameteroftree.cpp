@@ -27,7 +27,7 @@ int diameterOfTree(TreeNode *root, int &diameter)
 
     // Update the diameter if the current node is part of the longest path
     diameter = max(diameter, 1+leftDepth + rightDepth);
-    cout<<leftDepth<<rightDepth<<endl;
+    //cout<<leftDepth<<rightDepth<<endl;
 
     // Return the depth of the current node
     return 1 + max(leftDepth, rightDepth);
