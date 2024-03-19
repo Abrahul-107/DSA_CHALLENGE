@@ -32,7 +32,7 @@
 - Traverse the right subtree, i.e., call Postorder(right->subtree)
 - Visit the root
 
-| --:Binary Tree PROBLEMS:--  |
+| --:Top 50 Tree Coding Problems:--  |
 |------------------------------|
 - 1. [Representation of tree in C++ ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/01_representation.cpp)
 - 2. [Preorder traversal in tree ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/02_preorder_traversal.cpp) 
@@ -40,3 +40,5 @@
 - 4. [inorder traversal in tree ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/04_postorder_traversal.cpp) 
 - 5. [Level order traversal in tree(BFS) ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/05_levelorder_traversal.cpp) 
 - 6. [Maximum depth/height of tree(Using both BFS and DFS) ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/06_maximum_depth.cpp) 
+- 7. [Two Trees are Identical or not](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/07_identicaltree_check.cpp) 
+
