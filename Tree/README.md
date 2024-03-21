@@ -46,6 +46,7 @@
  10. [Diameter of binary tree ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/10_diameteroftree.cpp) 
  11. [Tree is balanced or not ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/11_treeisbalanceornot.cpp) 
  12. [Check of children sum property ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/12_checkofchildrensum.cpp)
+ 13. [Check of children sum property ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/13_validate_BST.cpp)
 
 
 
