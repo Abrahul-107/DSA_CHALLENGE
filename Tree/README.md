@@ -48,5 +48,6 @@
  12. [Check of children sum property ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/12_checkofchildrensum.cpp)
  13. [Check of children sum property ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/13_validate_BST.cpp)
  14. [Convert a sorted array to BST ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/14_arraytoBst.cpp)
-
-
+ 15. [Max value in each level ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/15_maxValueinEachLevel.cpp)
+ 16. [Level order traversal ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/16_levelorderTraversal.cpp)
+ 17. [Change tree to children sum property tree](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/17_changetree_to_childrensum.cpp)
