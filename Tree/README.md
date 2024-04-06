@@ -43,5 +43,11 @@
  7. [Two Trees are Identical or not](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/07_identicaltree_check.cpp) 
  8. [Mirror tree](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/08_mirror_tree.cpp) 
  9. [Tree is symmetric or not ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/09_symmetricornot.cpp) 
- 10.[Diameter of binary tree ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/10_diameteroftree.cpp) 
-
+ 10. [Diameter of binary tree ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/10_diameteroftree.cpp) 
+ 11. [Tree is balanced or not ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/11_treeisbalanceornot.cpp) 
+ 12. [Check of children sum property ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/12_checkofchildrensum.cpp)
+ 13. [Check of children sum property ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/13_validate_BST.cpp)
+ 14. [Convert a sorted array to BST ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/14_arraytoBst.cpp)
+ 15. [Max value in each level ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/15_maxValueinEachLevel.cpp)
+ 16. [Level order traversal ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/16_levelorderTraversal.cpp)
+ 17. [Change tree to children sum property tree](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Tree/17_changetree_to_childrensum.cpp)
