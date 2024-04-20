@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//Time complexity = O(NlogN) + O(MlogM)
+
 int findSmallestDifference(int *a,int *b,int m,int n)
 {
     int i=0,j=0;
