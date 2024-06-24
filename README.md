@@ -53,6 +53,8 @@ Must do interview questions from each topic
 | 4. [find 132 pattern in an array ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Stack/04_132_pattern.cpp)|
 | 5. [asteroidCollision problem ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Stack/05_%20asteroidCollision.cpp)|
 | 6. [build array with stack opeartions ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Stack/06_build_array_withstackop.cpp)|
+| 7. [Next grater element ](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Stack/07_next_greate_element2.cpp)|
+| 8. [ minimum remove to make valid paranthesis](https://github.com/Abrahul-107/DSA_CHALLENGE/blob/main/Stack/08_Minimum_Remove_to_Make_Valid_Parentheses.cpp)|
 
 
 
