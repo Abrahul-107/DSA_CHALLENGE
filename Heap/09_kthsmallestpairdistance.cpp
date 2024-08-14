@@ -5,7 +5,7 @@ using namespace std;
 /*
 Here we finds the k-th smallest pair distance in an array by calculating all pairwise distances, 
 storing them in a max heap, and ensuring the heap size does not exceed k. The k-th smallest distance is
-then the maximum element in the heap.
+then the maximum element in the heap.....
  */
 int findKthSmallestPairDistance(vector<int>&arr,int k)
 {
@@ -26,6 +26,7 @@ int findKthSmallestPairDistance(vector<int>&arr,int k)
 
 
 }
+//Time complexity = O(N*N)for nested iteration + O(NlogK)for heap
 
 int main()
 {
