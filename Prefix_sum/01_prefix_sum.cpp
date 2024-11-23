@@ -22,8 +22,14 @@ int main()
         int val ;cin>>val;
         arr.push_back(val);
     }
-    int l,r;cin>>l>>r;
-    cout<<sumInRange(l,r,arr,n);
+    
+    int q;
+    cin>>q;
+    while(q--)
+    {
+        int l,r;cin>>l>>r;
+        cout<<sumInRange(l,r,arr,n);
+    }
 
     return 0;
 
