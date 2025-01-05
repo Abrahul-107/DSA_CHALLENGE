@@ -33,31 +33,31 @@ void backtrack(string &S, int index, string path, vector<string> &result)
     }
 }
 
-void backtracking(string &s, vector<string> &ans, int index)
+void backtracking(vector<string> &ans, int i, string &S)
 {
-    if (index == s.length())
+    if (i == S.length())
     {
-        ans.push_back(s);
-        return;
+        ans.push_back(S);
     }
-
-    // Always call for the next index
-    backtracking(s, ans, index + 1);
-
-    // If the character is alphabetic, toggle case and recurse
-    if (isalpha(s[index]))
+    else
     {
-        s[index] = islower(s[index]) ? toupper(s[index]) : tolower(s[index]);
-        backtracking(s, ans, index + 1);
-        // Restore original case after recursion
-        s[index] = islower(s[index]) ? toupper(s[index]) : tolower(s[index]);
+        if (isalpha(S[i]))
+        { // If it's a letter
+            S[i] = toupper(S[i]);
+            backtracking(ans, i + 1, S); // Uppercase branch
+            S[i] = tolower(S[i]);
+            backtracking(ans, i + 1, S); // Lowercase branch
+        }
+        else
+        {
+            backtracking(ans, i + 1, S); // Skip non-letters
+        }
     }
 }
-
 vector<string> letterCasePermutation(string s)
 {
     vector<string> ans;
-    backtracking(s, ans, 0);
+    backtracking(ans, 0, s);
     return ans;
 }
 
