@@ -1,4 +1,4 @@
-//https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621
+//https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1
 #include<iostream>
 using namespace std;
 
