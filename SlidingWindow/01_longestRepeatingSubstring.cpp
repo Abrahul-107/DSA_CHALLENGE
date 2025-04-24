@@ -1,5 +1,8 @@
 //https://www.naukri.com/code360/problems/longest-repeating-substring_980523
-#include<bits/stdc++.h>
+#include <iostream>
+#include <string>
+#include <unordered_map>
+#include <algorithm>
 using namespace std;
 
 int longestRepeatingSubstring(string s,int k)
