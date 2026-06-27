@@ -24,7 +24,7 @@ int findCheapestPrice(int n,vector<vector<int>>&flights,int src,int dest,int k)
         }
         minCost = currentCost;
     }
-    if (minCost[dest]!=1e9) minCost[dest];
+    if (minCost[dest]!=1e9) return minCost[dest];
     return -1;
 
 }
@@ -35,8 +35,8 @@ int main() {
     vector<vector<int>> flights = {
         {0, 1, 100},
         {1, 2, 100},
-        {2, 3, 100},
-        {0, 2, 500}
+        {2, 0, 100},
+        {1, 3, 600}
     };
 
     int src = 0;
