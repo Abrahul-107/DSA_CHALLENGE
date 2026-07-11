@@ -22,10 +22,12 @@ void dfs(int node,vector<vector<int>>&Graph,vector<bool>&visited)
 int main()
 {
     int n = 4;
-    vector<vector<int>>Graph;
-    Graph.resize(n);
-    Graph[0] = {1,2};
-    Graph[1] = {3};
+    vector<vector<int>> Graph = {
+        {1, 2}, // 0
+        {0, 3}, // 1
+        {0},    // 2
+        {1}     // 3
+    };
     vector<bool>visited(n,false);
     dfs(0,Graph,visited);
 
